@@ -1,6 +1,6 @@
 ---
 id: uy0s3dxt0v47zgek7047ygy
-title: "HashiCorp User Group Meetup #11"
+title: 'HashiCorp User Group #11'
 desc: ''
 updated: 1683911736778
 created: 1683908310866
